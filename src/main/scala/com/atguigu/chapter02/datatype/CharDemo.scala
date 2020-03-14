@@ -11,6 +11,8 @@ object CharDemo {
     var num = 10 + char2
     println("num = " + num)
 
+//    var char3 : Char = 'a' + 2 // 'a'+2 是一个整数，不可以将Int赋给Char
+
   }
 
 }
